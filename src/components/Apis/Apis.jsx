@@ -515,7 +515,7 @@ const postres=[
     {
         "id": 7,
         "name": "Porción de Cheesecake de frutos rojos",
-        "img": "https://res.cloudinary.com/djolgpuuh/image/upload/v1721411551/frutosrojos_yuoo5y.png",
+        "img": "https://res.cloudinary.com/djolgpuuh/image/upload/v1721610256/frutosrojos_rekprr.png",
         "ingredients": [
             "capa cremosa de queso y el contraste de los frutos rojos frescos"
         ],

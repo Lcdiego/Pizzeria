@@ -7,7 +7,7 @@ const Seleccion_Pizza = ({ productoSeleccionado, agregarAlCarrito }) => {
     <div className="home  ">
     <NavbarInterno/>
       <div key={productoSeleccionado.id} className="  h-[85vh] lg:flex flex-col justify-center ">
-       
+
         <div className="bg-[#FAD469] relative mb-10 flex flex-col xl:max-w-full lg:flex-row md:items-center md:space-x-5 space-y-3 md:space-y-0 rounded-xl shadow-lg p-10 w-xs md:w-3/4 mx-auto ">
           <div className="w-full md:w-1/3  grid place-items-center">
             <img
